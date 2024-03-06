@@ -1,0 +1,13 @@
+
+.img-fluid{
+  object-fit: cover;
+  height:  400px;
+}
+.imge-galery{
+  margin: 0px 10%;
+}
+.img-fram{
+  object-fit: cover;
+  width: 100%;
+  /* height:  600px; */
+}
